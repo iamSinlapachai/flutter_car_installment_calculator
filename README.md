@@ -1,16 +1,13 @@
-# flutter_car_installment_calculator
+# โปรเจ็ค flutter_car_installment_calculator
 
-A new Flutter project.
+UI Screen for splash, input, result and Alert
 
-## Getting Started
+## ภาพ UI screen 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/user-attachments/assets/77c6911a-7fc5-4dbf-8ee2-b464a0ed1609" width="200">
+<img src="https://github.com/user-attachments/assets/3f919bca-2e54-473d-a3ef-22735fe32d86" width="200">
+<img src="https://github.com/user-attachments/assets/86616598-c7a4-486b-8598-cbc550041db0" width="200">
+<img src="https://github.com/user-attachments/assets/496de6bc-c9b2-4408-bd66-1c588c2423ec" width="200">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
